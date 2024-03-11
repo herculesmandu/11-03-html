@@ -15,5 +15,12 @@ body{
     background-color: black;
     color: aqua;
     padding: 5px;
-    
+
+}
+
+#exclusive-title{
+    background-color: purple;
+    color: aliceblue;
+    padding: 10px;
+    font-size: 40px;
 }
