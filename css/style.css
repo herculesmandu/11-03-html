@@ -6,3 +6,14 @@
     font-size: 80px;
 
 } 
+
+body{
+    padding-bottom: 500px;
+}
+
+.paragrah{
+    background-color: black;
+    color: aqua;
+    padding: 5px;
+    
+}
